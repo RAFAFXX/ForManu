@@ -4,7 +4,7 @@ $color-flap         : darken($color-env, 15%);
 $color-bg           : #FDD1DC; // Rosa mais intenso para o fundo
 $color-heart        : #D00000; // Corações continuam vermelhos
 
-$env-border-radius  : 6px;
+$env-border-radius  : 8px;
 $env-width          : 300px;
 $env-height         : 200px;
 $heart-width        : 50px;
@@ -21,7 +21,7 @@ body {
     border-bottom-right-radius: $env-border-radius;
     margin-left: auto;
     margin-right: auto;
-    top: 180px;
+    top: 220px;
     background-color: $color-flap;
     box-shadow: 0 4px 20px rgba(0,0,0,.2);
 }

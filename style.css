@@ -7,11 +7,11 @@ body {
   position: relative;
   width: 300px;
   height: 200px;
-  border-bottom-left-radius: 6px;
-  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
   margin-left: auto;
   margin-right: auto;
-  top: 180px;
+  top: 220px;
   background-color: rgb(235.4132653061, 100.0867346939, 151.7244897959);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
@@ -37,8 +37,8 @@ body {
   border-right: 150px solid #F4A8C5;
   border-bottom: 100px solid rgb(241.137755102, 145.362244898, 181.9081632653);
   border-top: 100px solid transparent;
-  border-bottom-left-radius: 6px;
-  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
 }
 
 .letter {
@@ -49,7 +49,7 @@ body {
   margin-right: auto;
   height: 90%;
   top: 5%;
-  border-radius: 6px;
+  border-radius: 8px;
   box-shadow: 0 2px 26px rgba(0, 0, 0, 0.12);
 }
 
