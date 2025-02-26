@@ -34,8 +34,28 @@ $(document).ready(function() {
             "Te amar é como respirar… algo que faço sem perceber, mas que me mantém vivo.",
             "Cada segundo ao teu lado é um presente que o tempo me dá.",
             "Você é a razão pela qual meu coração bate mais forte.",
-            "Tua essência é como uma chama que nunca se apaga."
-        ];
+            "Tua essência é como uma chama que nunca se apaga.",
+            "Teus olhos são faróis que iluminam até os caminhos mais escuros do meu coração.",
+            "Seus olhos verdes são como campos dourados ao amanhecer, cheios de vida e mistério.",
+            "Quando me perco no brilho dos teus olhos, encontro todo o sentido da minha existência.",
+            "Cada vez que olho para você, percebo que a beleza do mundo se resume no teu sorriso.",
+            "Teu olhar tem a profundidade do oceano e a leveza do vento ao entardecer.",
+            "O som da tua voz é como uma melodia que acalma minha alma e embala meus sonhos.",
+            "Se teu riso fosse uma música, seria aquela que eu colocaria no repeat para sempre.",
+            "O brilho do sol reflete em teus cabelos como se soubesse que ali mora a verdadeira luz.",
+            "Cada palavra tua tem o poder de transformar um dia comum em poesia.",
+            "Tua presença ilumina até os cantos mais sombrios da minha alma.",
+            "Você é como um sonho do qual eu nunca quero acordar.",
+            "O mundo poderia perder todas as cores, mas bastaria teu olhar para ele continuar bonito.",
+            "Se existe um céu na Terra, ele mora no brilho dos teus olhos.",
+            "Teus cabelos dourados são como fios de sol entrelaçando meu destino ao teu.",
+            "O teu sorriso é um convite para acreditar que a felicidade existe.",
+            "Se tua voz fosse um lugar, eu me mudaria para lá sem pensar duas vezes.",
+            "Cada palavra tua soa como um encanto, e eu sou eternamente enfeitiçado por ti.",
+            "Quando nossos olhos se encontram, o tempo parece desacelerar para nos ver melhor.",
+            "O brilho dos teus olhos faz até as estrelas sentirem inveja.",
+            "Você é a poesia mais linda que a vida já escreveu no meu coração.",  
+];
     
         // Cópia da lista para controle de repetição
         let mensagensRestantes = [...mensagensOriginais];
